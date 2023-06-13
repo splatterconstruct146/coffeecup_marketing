@@ -1,5 +1,5 @@
 # Market Recommendation for a New Product
-Brief Summary
+Brief Summary:
 
 The premise is that we are promoting a new cup made of reusable materials into an existing (mock) market. We need to find out which types of shops among local businessess in which to market the new cup. The shops in the market are as follows:
 
